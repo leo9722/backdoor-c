@@ -1,6 +1,6 @@
 # BACKDOOR-C
 
-![alt text](https://github.com/leo9722/backdoor-c/img/backdoor.png)
+![alt text](https://github.com/leo9722/backdoor-c/blob/master/img/backdoor.png)
 
  Project to create a backdor undetectable to antivirus software  (before passage under total virus)
 
